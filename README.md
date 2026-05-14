@@ -1,8 +1,8 @@
-#Advanced Climate Trend Analysis & Forecasting
+# Advanced Climate Trend Analysis & Forecasting
 
 An end-to-end Machine Learning project for climate trend analysis and temperature forecasting using daily weather data from New Delhi, India (2013–2017).
 
-##Results
+## Results
 | Model | RMSE (°C) | R² |
 |-------|-----------|-----|
 | Bidirectional LSTM | 1.18 | 0.97 |
